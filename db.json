@@ -1,0 +1,359 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "React Developer",
+      "company": "TechNova",
+      "companyId": 1,
+      "location": "Ahmedabad",
+      "type": "Full-time",
+      "salary": "₹6-9 LPA",
+      "category": "IT",
+      "experience": "1-3 years",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "vacancies": 3,
+      "postedDate": "2026-10-10",
+      "description": "Build modern web apps using React and Bootstrap."
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Designer",
+      "company": "PixelCraft",
+      "companyId": 2,
+      "location": "Remote",
+      "type": "Part-time",
+      "salary": "₹3-5 LPA",
+      "category": "Design",
+      "experience": "0-2 years",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Wireframing"
+      ],
+      "vacancies": 2,
+      "postedDate": "2026-10-09",
+      "description": "Design user-friendly interfaces and prototypes."
+    },
+    {
+      "id": 3,
+      "title": "Laravel Developer",
+      "company": "CodeBase",
+      "companyId": 3,
+      "location": "Mumbai",
+      "type": "Full-time",
+      "salary": "₹5-8 LPA",
+      "category": "IT",
+      "experience": "2-4 years",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "vacancies": 2,
+      "postedDate": "2026-10-08",
+      "description": "Develop REST APIs and backend features."
+    },
+    {
+      "id": 4,
+      "title": "Digital Marketing Intern",
+      "company": "GrowthHub",
+      "companyId": 4,
+      "location": "Surat",
+      "type": "Internship",
+      "salary": "₹10k/month",
+      "category": "Marketing",
+      "experience": "Fresher",
+      "skills": [
+        "SEO",
+        "Social Media",
+        "Canva"
+      ],
+      "vacancies": 5,
+      "postedDate": "2026-10-07",
+      "description": "Help run social media and SEO campaigns."
+    },
+    {
+      "id": 5,
+      "title": "Data Analyst",
+      "company": "InsightLabs",
+      "companyId": 5,
+      "location": "Pune",
+      "type": "Full-time",
+      "salary": "₹4-7 LPA",
+      "category": "Data",
+      "experience": "1-3 years",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ],
+      "vacancies": 2,
+      "postedDate": "2026-10-06",
+      "description": "Analyze data and build dashboards."
+    },
+    {
+      "id": 6,
+      "title": "Content Writer",
+      "company": "WordWave",
+      "companyId": 6,
+      "location": "Remote",
+      "type": "Part-time",
+      "salary": "₹2-4 LPA",
+      "category": "Content",
+      "experience": "0-1 years",
+      "skills": [
+        "Writing",
+        "SEO",
+        "Research"
+      ],
+      "vacancies": 4,
+      "postedDate": "2026-10-05",
+      "description": "Write blogs, articles, and website copy."
+    },
+    {
+      "id": 7,
+      "title": "Node.js Developer",
+      "company": "TechNova",
+      "companyId": 1,
+      "location": "Ahmedabad",
+      "type": "Full-time",
+      "salary": "₹5-9 LPA",
+      "category": "IT",
+      "experience": "2-4 years",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "vacancies": 2,
+      "postedDate": "2026-10-04",
+      "description": "Build scalable backend services and REST APIs."
+    },
+    {
+      "id": 8,
+      "title": "Graphic Designer",
+      "company": "PixelCraft",
+      "companyId": 2,
+      "location": "Ahmedabad",
+      "type": "Full-time",
+      "salary": "₹3-6 LPA",
+      "category": "Design",
+      "experience": "1-3 years",
+      "skills": [
+        "Photoshop",
+        "Illustrator",
+        "Branding"
+      ],
+      "vacancies": 1,
+      "postedDate": "2026-10-03",
+      "description": "Create logos, banners, and social media creatives."
+    },
+    {
+      "id": 9,
+      "title": "Accounts Executive",
+      "company": "FinEdge",
+      "companyId": 7,
+      "location": "Vadodara",
+      "type": "Full-time",
+      "salary": "₹3-5 LPA",
+      "category": "Finance",
+      "experience": "1-2 years",
+      "skills": [
+        "Tally",
+        "GST",
+        "Excel"
+      ],
+      "vacancies": 3,
+      "postedDate": "2026-10-02",
+      "description": "Manage accounts, invoices, and GST filing."
+    },
+    {
+      "id": 10,
+      "title": "Full Stack Intern",
+      "company": "CodeBase",
+      "companyId": 3,
+      "location": "Remote",
+      "type": "Internship",
+      "salary": "₹15k/month",
+      "category": "IT",
+      "experience": "Fresher",
+      "skills": [
+        "React",
+        "Laravel",
+        "Git"
+      ],
+      "vacancies": 4,
+      "postedDate": "2026-10-01",
+      "description": "Work on real projects with React and Laravel."
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "TechNova",
+      "industry": "Software",
+      "location": "Ahmedabad",
+      "website": "https://technova.example.com",
+      "employees": "50-200",
+      "about": "Product company building web and mobile apps."
+    },
+    {
+      "id": 2,
+      "name": "PixelCraft",
+      "industry": "Design Studio",
+      "location": "Remote",
+      "website": "https://pixelcraft.example.com",
+      "employees": "10-50",
+      "about": "Creative studio for branding and UI/UX."
+    },
+    {
+      "id": 3,
+      "name": "CodeBase",
+      "industry": "Software",
+      "location": "Mumbai",
+      "website": "https://codebase.example.com",
+      "employees": "50-200",
+      "about": "Custom software and API development."
+    },
+    {
+      "id": 4,
+      "name": "GrowthHub",
+      "industry": "Marketing",
+      "location": "Surat",
+      "website": "https://growthhub.example.com",
+      "employees": "10-50",
+      "about": "Digital marketing agency."
+    },
+    {
+      "id": 5,
+      "name": "InsightLabs",
+      "industry": "Analytics",
+      "location": "Pune",
+      "website": "https://insightlabs.example.com",
+      "employees": "50-200",
+      "about": "Data analytics and BI consulting."
+    },
+    {
+      "id": 6,
+      "name": "WordWave",
+      "industry": "Media",
+      "location": "Remote",
+      "website": "https://wordwave.example.com",
+      "employees": "1-10",
+      "about": "Content and copywriting agency."
+    },
+    {
+      "id": 7,
+      "name": "FinEdge",
+      "industry": "Finance",
+      "location": "Vadodara",
+      "website": "https://finedge.example.com",
+      "employees": "10-50",
+      "about": "Accounting and tax services."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "IT",
+      "icon": "bi-laptop"
+    },
+    {
+      "id": 2,
+      "name": "Design",
+      "icon": "bi-palette"
+    },
+    {
+      "id": 3,
+      "name": "Marketing",
+      "icon": "bi-megaphone"
+    },
+    {
+      "id": 4,
+      "name": "Data",
+      "icon": "bi-bar-chart"
+    },
+    {
+      "id": 5,
+      "name": "Content",
+      "icon": "bi-pencil-square"
+    },
+    {
+      "id": 6,
+      "name": "Finance",
+      "icon": "bi-currency-rupee"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "password": "123456",
+      "role": "jobseeker",
+      "phone": "9876543210",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": 2,
+      "name": "TechNova HR",
+      "email": "hr@technova.com",
+      "password": "123456",
+      "role": "employer",
+      "phone": "9123456780",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": 3,
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "phone": "9000000000",
+      "city": "Mumbai"
+    },
+    {
+      "name": "ekta nayi",
+      "email": "ektanayi@gmail.com",
+      "phone": "1234567890",
+      "password": "123456",
+      "role": "jobseeker",
+      "id": 4
+    }
+  ],
+  "applications": [
+    {
+      "id": 1,
+      "jobId": 1,
+      "userId": 1,
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "phone": "9876543210",
+      "coverLetter": "I am interested in this role.",
+      "status": "Pending",
+      "appliedDate": "2026-10-11"
+    },
+    {
+      "id": 2,
+      "jobId": 3,
+      "userId": 1,
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "phone": "9876543210",
+      "coverLetter": "I have Laravel experience.",
+      "status": "Shortlisted",
+      "appliedDate": "2026-10-11"
+    }
+  ],
+  "savedJobs": [
+    {
+      "id": 1,
+      "userId": 1,
+      "jobId": 2
+    }
+  ]
+}
