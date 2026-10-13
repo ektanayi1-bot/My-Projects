@@ -21,6 +21,7 @@ function App() {
          <Route path="/register" element={<Register />} />
         <Route path="/post-job" element={<PostJob />} />
         <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/footer" element={<Footer />} />
       </Routes>
     </>
   );
