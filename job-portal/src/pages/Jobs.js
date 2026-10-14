@@ -65,7 +65,7 @@ function Jobs() {
       )}
 
       <Row className="g-4">
-        {jobs.map((job) => (
+        {(Array.isArray(jobs) ? jobs : []).map((job) => (
           <Col md={6} lg={4} key={job.id}>
             <JobCard job={job} />
           </Col>
